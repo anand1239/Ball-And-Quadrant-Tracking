@@ -1,0 +1,6 @@
+Time = 0.0 sec , Quadrant = Outside , Color = ball-orange , Event = Entry
+Time = 0.0 sec , Quadrant = 2 , Color = ball-white , Event = Entry
+Time = 0.0 sec , Quadrant = 3 , Color = ball-yellow , Event = Entry
+Time = 0.0 sec , Quadrant = 4 , Color = ball-green , Event = Entry
+Time = 0.033322225924691765 sec , Quadrant = Outside , Color = ball-orange , Event = Exit
+Time = 0.033322225924691765 sec , Quadrant = 1 , Color = ball-orange , Event = Entry
